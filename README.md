@@ -1,5 +1,5 @@
 # subprocess-use-python-flask
-The subprocess used to avoid multi user session issue in hadoop and apache pyspark session. Subprocess will create unique job every requests
+The subprocess used to avoid multi user session issue in hadoop and apache pyspark session. Subprocess will create unique job for every requests
 
 # Python Flask
 
